@@ -37,16 +37,16 @@ const App = () => {
         setLoading(true);
         const res = await axios.get(`https://api.github.com/users/${ username }/repos?per_page=5&sort=created:asc&client_id=${ process.env.REACT_APP_GITHUB_CLIENT_ID }&client_secret=${ process.env.REACT_APP_GITHUB_CLIENT_SECRET }`);
         setRepos(res.data);
-        setLoading(false)
+        setLoading(false);
     };
 
     const clearUsers = () => {
         setUsers([]);
         setLoading(false);
-    }
+    };
 
     const setAlerts = ( msg, type ) => {
-        setAlert({msg, type});
+        setAlert({ msg, type });
         setTimeout(() => setAlert(null), 5000);
     };
     return <Router>
