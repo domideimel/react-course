@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60707b6e-8610-4d97-a61f-f7be036c636d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/github-finder/src/components/layout/Spinner.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github-finder/src/components/users/Search.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github-finder/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github-finder/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-finder/src/components/layout/Spinner.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/layout/Spinner.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github-finder/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/github-finder/src/App.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+            <state relative-caret-position="125">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -36,31 +34,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/github-finder/src/components/layout/Spinner.jsx">
+        <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Search.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="231">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Users.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+            <state relative-caret-position="546">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -92,9 +78,12 @@
         <option value="$PROJECT_DIR$/github-finder/public/index.html" />
         <option value="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx" />
-        <option value="$PROJECT_DIR$/github-finder/src/App.jsx" />
-        <option value="$PROJECT_DIR$/github-finder/src/components/layout/Spinner.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/components/layout/Spinner.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/.env" />
+        <option value="$PROJECT_DIR$/github-finder/.env.local" />
+        <option value="$PROJECT_DIR$/github-finder/src/components/users/Search.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/App.jsx" />
       </list>
     </option>
   </component>
@@ -153,7 +142,7 @@
               <item name="github-finder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560414586439</updated>
       <workItem from="1560414587715" duration="1663000" />
-      <workItem from="1560416477219" duration="4405000" />
+      <workItem from="1560416477219" duration="5936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6068000" />
+    <option name="totallyTimeSpent" value="7599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -291,6 +280,16 @@
     <entry file="file://$PROJECT_DIR$/github-finder/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Users.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -298,32 +297,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/.env.local">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="73" selection-start-line="1" selection-start-column="73" selection-end-line="1" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/github-finder/src/components/layout/Spinner.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/App.jsx">
+    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Search.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Users.jsx">
+    <entry file="file://$PROJECT_DIR$/github-finder/src/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        <state relative-caret-position="125">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,10 +1,10 @@
 import React from 'react';
 import UserItem from './UserItem';
-import Spinner from '../layout/Spinner'
+import Spinner from '../layout/Spinner';
 
 const Users = ({users, loading}) => {
-    if(loading) {
-        return <Spinner />
+    if (loading) {
+        return <Spinner/>;
     } else {
         return (
             <div style={userStyle}>
@@ -24,4 +24,5 @@ const userStyle = {
     gridTemplateColumns: 'repeat(3, 1fr)',
     gridGap: '1rem'
 };
+
 export default Users;
