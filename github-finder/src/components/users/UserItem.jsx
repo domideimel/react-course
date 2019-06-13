@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-const UserItem = ( { user: { avatar_url, html_url, login } } ) => {
+const UserItem = ( { user: { avatar_url, login } } ) => {
     return (
         <div className={ 'card text-center' }>
             <img src={ avatar_url } className={ 'round-img' } alt=""

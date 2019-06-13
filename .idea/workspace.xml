@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60707b6e-8610-4d97-a61f-f7be036c636d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/github-finder/src/context/alert/AlertState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github-finder/src/context/alert/alertContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github-finder/src/context/alert/alertReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github-finder/src/context/github/GithubState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github-finder/src/context/github/githubContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github-finder/src/context/github/githubReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/github-finder/src/context/types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github-finder/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-finder/src/components/layout/Alert.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/layout/Alert.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-finder/src/components/users/Search.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/users/Search.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github-finder/src/components/users/User.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/users/User.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +30,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/github-finder/src/App.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/User.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="147">
+              <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="74" />
               <folding>
-                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#0#63#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -33,32 +54,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Search.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Users.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="168">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#52#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
+        <entry file="file://$PROJECT_DIR$/github-finder/src/components/layout/Alert.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/github-finder/src/context/alert/alertReducer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/github-finder/src/context/alert/AlertState.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#42#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/github-finder/src/context/alert/alertContext.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -69,8 +108,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alert</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,17 +132,25 @@
         <option value="$PROJECT_DIR$/github-finder/public/index.html" />
         <option value="$PROJECT_DIR$/github-finder/.env" />
         <option value="$PROJECT_DIR$/github-finder/.env.local" />
-        <option value="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/layout/Spinner.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/layout/Alert.js" />
         <option value="$PROJECT_DIR$/github-finder/src/components/pages/About.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx" />
-        <option value="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/repos/Repos.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/repos/RepoItem.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/context/github/githubContext.js" />
+        <option value="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/context/types.js" />
+        <option value="$PROJECT_DIR$/github-finder/src/context/github/GithubState.js" />
+        <option value="$PROJECT_DIR$/github-finder/src/context/github/githubReducer.js" />
+        <option value="$PROJECT_DIR$/github-finder/src/components/users/User.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/context/alert/alertContext.js" />
+        <option value="$PROJECT_DIR$/github-finder/src/components/layout/Alert.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/users/Search.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/App.jsx" />
-        <option value="$PROJECT_DIR$/github-finder/src/components/users/User.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/context/alert/AlertState.js" />
+        <option value="$PROJECT_DIR$/github-finder/src/context/alert/alertReducer.js" />
       </list>
     </option>
   </component>
@@ -156,7 +209,46 @@
               <item name="github-finder" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react" type="462c0819:PsiDirectoryNode" />
+              <item name="github-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="repos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react" type="462c0819:PsiDirectoryNode" />
+              <item name="github-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="users" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react" type="462c0819:PsiDirectoryNode" />
+              <item name="github-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react" type="462c0819:PsiDirectoryNode" />
+              <item name="github-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="alert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react" type="462c0819:PsiDirectoryNode" />
+              <item name="github-finder" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -205,12 +297,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560414586439</updated>
       <workItem from="1560414587715" duration="1663000" />
-      <workItem from="1560416477219" duration="13775000" />
+      <workItem from="1560416477219" duration="18989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15438000" />
+    <option name="totallyTimeSpent" value="20652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -345,57 +437,112 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/components/layout/Alert.jsx">
+    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/App.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="63">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
           <folding>
-            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Search.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Users.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="294">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
+    <entry file="file://$PROJECT_DIR$/github-finder/src/context/github/githubContext.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/context/types.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/context/github/GithubState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="38" column="226" selection-end-line="69" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/context/github/githubReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Search.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/User.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="74" />
           <folding>
-            <element signature="e#0#51#0" expanded="true" />
+            <element signature="e#0#63#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/components/layout/Alert.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/context/alert/alertContext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/App.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/context/alert/AlertState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/context/alert/alertReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
