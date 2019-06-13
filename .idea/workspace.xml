@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60707b6e-8610-4d97-a61f-f7be036c636d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github-finder/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +23,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/github-finder/src/App.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="105">
+              <caret line="5" column="5" selection-start-line="5" selection-end-line="5" selection-end-column="5" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -35,16 +45,16 @@
         <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+              <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Users.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+            <state relative-caret-position="861">
+              <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -74,10 +84,10 @@
         <option value="$PROJECT_DIR$/github-finder/src/App.js" />
         <option value="$PROJECT_DIR$/github-finder/src/index.js" />
         <option value="$PROJECT_DIR$/github-finder/public/index.html" />
-        <option value="$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/App.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" />
-        <option value="$PROJECT_DIR$/github-finder/src/components/users/Users.jsx" />
+        <option value="$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx" />
       </list>
     </option>
   </component>
@@ -193,12 +203,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560414586439</updated>
       <workItem from="1560414587715" duration="1663000" />
-      <workItem from="1560416477219" duration="2358000" />
+      <workItem from="1560416477219" duration="2976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4021000" />
+    <option name="totallyTimeSpent" value="4639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -272,37 +282,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
+    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Users.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="861">
+          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/github-finder/src/App.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="5" column="5" selection-start-line="5" selection-end-line="5" selection-end-column="5" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/Users.jsx">
+    <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="42">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
