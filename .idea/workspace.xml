@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60707b6e-8610-4d97-a61f-f7be036c636d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github-finder/src/components/layout/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/react.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/react.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github-finder/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/github-finder/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="525">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -185,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1560414586439</updated>
       <workItem from="1560414587715" duration="1663000" />
-      <workItem from="1560416477219" duration="1536000" />
+      <workItem from="1560416477219" duration="1611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3199000" />
+    <option name="totallyTimeSpent" value="3274000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -283,8 +277,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/github-finder/src/components/users/UserItem.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="525">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
