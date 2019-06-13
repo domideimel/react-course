@@ -2,18 +2,18 @@ import React from 'react';
 import UserItem from './UserItem';
 import Spinner from '../layout/Spinner';
 
-const Users = ({users, loading}) => {
-    if (loading) {
+const Users = ( { users, loading } ) => {
+    if ( loading ) {
         return <Spinner/>;
     } else {
         return (
-            <div style={userStyle}>
-                {users.map(user => (
+            <div style={ userStyle }>
+                { users.map(user => (
                     <UserItem
-                        key={user.id}
-                        user={user}
+                        key={ user.id }
+                        user={ user }
                     />
-                ))}
+                )) }
             </div>
         );
     }
