@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60707b6e-8610-4d97-a61f-f7be036c636d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact-keeper/models/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-keeper/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/contact-keeper/models/User.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-keeper/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/contact-keeper/routes/auth.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact-keeper/routes/contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/contact-keeper/routes/contacts.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact-keeper/routes/contacts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="97" column="40" selection-start-line="97" selection-start-column="40" selection-end-line="97" selection-end-column="40" />
+            <state relative-caret-position="543">
+              <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -222,12 +218,12 @@
       <updated>1560414586439</updated>
       <workItem from="1560414587715" duration="1663000" />
       <workItem from="1560416477219" duration="19694000" />
-      <workItem from="1560499160915" duration="7132000" />
+      <workItem from="1560499160915" duration="7423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28489000" />
+    <option name="totallyTimeSpent" value="28780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -570,8 +566,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact-keeper/routes/contacts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="97" column="40" selection-start-line="97" selection-start-column="40" selection-end-line="97" selection-end-column="40" />
+        <state relative-caret-position="543">
+          <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
         </state>
       </provider>
     </entry>
