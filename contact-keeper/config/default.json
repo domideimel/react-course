@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://user:hifopadd16@contactkeeper-wjeg3.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://user:hifopadd16@contactkeeper-wjeg3.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "sdfmxioFHAYO,pofy3Y893Q8,asdopy3JAKHS3"
 }
