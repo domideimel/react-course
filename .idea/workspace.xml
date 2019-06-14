@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60707b6e-8610-4d97-a61f-f7be036c636d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/contact-keeper/routes/contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/contact-keeper/routes/contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-keeper/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/contact-keeper/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,28 +19,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact-keeper/server.js">
+        <entry file="file://$PROJECT_DIR$/contact-keeper/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="210">
+              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contact-keeper/routes/contacts.js">
+        <entry file="file://$PROJECT_DIR$/contact-keeper/client/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact-keeper/routes/users.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="378">
+              <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -95,7 +87,6 @@
         <option value="$PROJECT_DIR$/github-finder/src/components/pages/Home.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/components/pages/404.jsx" />
         <option value="$PROJECT_DIR$/github-finder/src/App.jsx" />
-        <option value="$PROJECT_DIR$/contact-keeper/package.json" />
         <option value="$PROJECT_DIR$/contact-keeper/.gitignore" />
         <option value="$PROJECT_DIR$/contact-keeper/config/db.json" />
         <option value="$PROJECT_DIR$/contact-keeper/server.js" />
@@ -107,6 +98,8 @@
         <option value="$PROJECT_DIR$/contact-keeper/models/Contact.js" />
         <option value="$PROJECT_DIR$/contact-keeper/models/User.js" />
         <option value="$PROJECT_DIR$/contact-keeper/routes/contacts.js" />
+        <option value="$PROJECT_DIR$/contact-keeper/package.json" />
+        <option value="$PROJECT_DIR$/contact-keeper/client/package.json" />
       </list>
     </option>
   </component>
@@ -150,25 +143,7 @@
               <item name="react" type="b2602c69:ProjectViewProjectNode" />
               <item name="react" type="462c0819:PsiDirectoryNode" />
               <item name="contact-keeper" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react" type="462c0819:PsiDirectoryNode" />
-              <item name="contact-keeper" type="462c0819:PsiDirectoryNode" />
-              <item name="middleware" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react" type="462c0819:PsiDirectoryNode" />
-              <item name="contact-keeper" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react" type="462c0819:PsiDirectoryNode" />
-              <item name="contact-keeper" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,12 +193,12 @@
       <updated>1560414586439</updated>
       <workItem from="1560414587715" duration="1663000" />
       <workItem from="1560416477219" duration="19694000" />
-      <workItem from="1560499160915" duration="7423000" />
+      <workItem from="1560499160915" duration="7695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28780000" />
+    <option name="totallyTimeSpent" value="29052000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
@@ -487,13 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact-keeper/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact-keeper/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -529,13 +497,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact-keeper/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact-keeper/models/Contact.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -560,14 +521,35 @@
     <entry file="file://$PROJECT_DIR$/contact-keeper/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
+          <caret line="21" column="5" selection-start-line="18" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact-keeper/routes/contacts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+        <state relative-caret-position="480">
+          <caret line="93" column="45" lean-forward="true" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-keeper/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-keeper/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-keeper/client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
